@@ -25,7 +25,7 @@ class formField extends  HTMLElement {
 
         :host {
             width: 95%;
-            height: 100vh;
+            height: 90vh;
             border:none;
             padding: 50px !important;
             border-radius: 16px;
@@ -101,7 +101,7 @@ class formField extends  HTMLElement {
         }
 
         .line {
-        background-color: #F9F9F9;
+        background-color: #E7E7E7;
         height: 2px;
         border: none;
         margin: 0;
@@ -154,6 +154,7 @@ class formField extends  HTMLElement {
         @media screen and (max-width: 768px){
             :host {
                 padding: 50px 10px !important;
+                height: 90vh;
             }
 
             .button-container {

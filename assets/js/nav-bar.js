@@ -25,7 +25,7 @@ class navApp extends HTMLElement {
             color: black;
             background-color: #FFFFFF;
 
-            box-shadow: 0 2px 6px #B9B28A;
+            box-shadow: 0 0px 16px rgba(0, 0, 0, 0.2);
 
             }
 

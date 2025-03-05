@@ -25,6 +25,7 @@ class FooterBar extends HTMLElement {
             p {
             margin-inline-start: 10px;
             font-size: 1.2rem;
+            font-family: "Poppins", sans-serif;
             }
         `;
     }

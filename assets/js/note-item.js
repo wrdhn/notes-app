@@ -19,6 +19,7 @@ class NoteItem extends HTMLElement {
                 padding: 16px;
                 margin-bottom: 16px;
                 background: #FFFFFF;
+                font-family: "Poppins", sans-serif;
             }
 
             h2 {
